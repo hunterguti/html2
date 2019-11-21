@@ -1,0 +1,29 @@
+body{
+    background-image: url('../img/emilia-about.jpg') ;
+    background-position: right bottom;
+    background-size: 1000px 700px;
+    background-repeat: no-repeat;
+
+}
+
+
+ul.horizontal{
+    
+    margin:0;
+    padding:0;
+    float: right;
+    
+    }
+
+    ul.horizontal li{
+        
+        display:block;
+        float:left;
+        padding:0 10px;
+        
+    }
+
+    ul.horizontal a{
+
+        text-decoration:none;
+    }

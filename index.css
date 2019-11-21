@@ -1,0 +1,30 @@
+body{
+    background-image: url('../img/emilia-home.jpg') ;
+    background-position: right bottom;
+    background-size: 1000px 700px;
+    background-repeat: no-repeat;
+
+}
+
+h1{
+
+    color:#9c9c9c;
+    font-size: 20px;
+    
+}
+
+h2{
+  font-size: 40px;
+  align-content: 
+}
+
+h3{
+    font-size: 70px;
+    position: left bottom;
+}
+
+
+a:link
+{
+text-decoration:none;
+} 
